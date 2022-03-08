@@ -1,0 +1,26 @@
+.side-bar {
+  width: 100%;
+  height: 600px;
+  background-color: #4b908f;
+  padding: 20px;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  padding: 10px;
+  /* font-size: 20px; */
+  font-weight: bold;
+}
+.link:hover {
+  color: #7e50e9;
+  background-color: #e0dada;
+}
+
+.fas {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  padding-top: 4px;
+}

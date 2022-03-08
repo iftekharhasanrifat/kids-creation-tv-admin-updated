@@ -1,0 +1,23 @@
+.categoryDropdown{
+    width: 250px;
+    padding:10px;
+    box-shadow: 5px 5px 10px grey;
+    margin-bottom: 20px;
+    border-radius:10px;
+    border: none;
+}
+.programSubmit{
+    position:absolute;
+    top: 75px;
+    right: 50px;
+    color:white;
+    background-color:teal;
+    padding:10px;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    font-size:16px;
+}
+.categoryDropdown:focus{
+    outline: none;
+}

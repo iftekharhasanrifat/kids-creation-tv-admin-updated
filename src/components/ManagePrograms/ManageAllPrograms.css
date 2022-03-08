@@ -1,0 +1,25 @@
+.manage-all-program {
+  display: flex;
+  justify-content: flex-start;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 3px;
+}
+
+thead th,
+tbody td {
+  /* border: 1px solid #4b908f; */
+  border: 1px solid #7e50e9;
+  padding: 16px;
+  text-align: left;
+}
+
+button ,.manageButton{
+  background-color: #4b908f;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  padding: 8px;
+  text-decoration: none;
+}
